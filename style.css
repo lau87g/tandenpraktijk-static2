@@ -457,6 +457,11 @@ li {
     background-color: var(--light-section-bg-color);
 }
 
+.team-header {
+    background-color: var(--light-section-bg-color);
+    padding-bottom: 4px !important;
+}
+
 .team-gallery {
     display: grid;
     padding-left: var(--section-side-padding);
